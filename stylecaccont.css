@@ -1,0 +1,24 @@
+body{
+    background-image: url(./assets/cratec.jpg);
+    background-color: #cccccc;
+
+}
+
+h1{
+    text-align: center;
+    font-style: oblique;
+    font-size: 100px;
+    color:greenyellow;
+}
+
+div{
+    text-align: center;
+
+}
+input{
+    text-align: center;
+    box-sizing: border-box;
+    
+}
+
+

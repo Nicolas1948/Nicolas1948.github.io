@@ -1,0 +1,16 @@
+body{
+    background-image: url(./assets/logpage.jpg);
+    background-color: #cccccc;
+
+}
+h1{
+    text-align: center;
+    font-style: oblique;
+    font-size: 100px;
+    color: aquamarine
+}
+
+footer{
+    text-align: end;
+    color: white;
+}

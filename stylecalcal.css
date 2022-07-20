@@ -1,0 +1,43 @@
+div{
+    text-align: center;
+}
+
+#firstPar{
+opacity: .6;
+background-color: beige;
+}
+
+body{
+    background-image: url(./assets/calculator2.jpg);
+}
+
+h1{
+    font-size: 70px;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+
+p{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+.height-input-field{
+    text-align: center;
+    font-size: 30px;
+}
+
+.weight-input-field{
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.calculate{
+    text-align: center;
+    font-size: 24px;
+}

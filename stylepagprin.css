@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    font-size: 82px;
+    color:white;
+    text-decoration: underline;
+    
+}
+
+body{
+    background-image:url(./assets/pagprin.jpg) ;
+}
+
+h2{
+    text-align: start;
+    font-size: 64px;
+    color: aqua;
+    font-style: italic;
+}
+
+button {
+    text-align: center;
+    border: none;
+    font-size: 30px;
+    font-style: italic;
+    
+}
